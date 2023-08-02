@@ -1,2 +1,0 @@
-# schmids-scraper
-Schmids-Scraper
